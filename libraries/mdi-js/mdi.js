@@ -1,4 +1,4 @@
- {
+{
     if(document.querySelectorAll(`svg[data-mdi]`).length){
         const mdi={
             fallback:"help-circle-outline",
